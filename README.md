@@ -20,6 +20,9 @@ Hasil dari tugas3.php
 ![tugas3](https://github.com/user-attachments/assets/7b9c3109-f181-436d-afcb-fde8e5620f2c)
 
 Jelaskan perbedaan antara metode GET, POST, dan DELETE!
+
 Metode GET: Digunakan mengambil data dari server.Yaitu untuk meminta data dari suatu URL tanpa mengubah keadaan server.
+
 Metode POST: Mengirimkan data ke server untuk membuat atau memodifikasi sumber daya.
+
 Metode DELETE: Menghapus sumber daya di server.
